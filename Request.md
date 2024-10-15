@@ -27,17 +27,5 @@ Target: After this script done, you will have the yocto environment that can bui
 (myapplication-1.0.bb)
 + Integrate your application into image
 + Create image
-+ Deploy image --> VM(Vbox, QEMU)2. Create a script include:
-- Auto setup a yocto environment + Provide: bblayers.conf, local.conf
-- Auto create a recipes to build the kernel with your driver created in (1)
-Target: After this script done, you will have the yocto environment that can build your kernel module with bitbake
-+ Select Linux Distribution's attributes:
-- Kernel version: 5.10
-- Yocto version: 3.4
-- GCC version: 11 (or above
-11.1, 11.2)
-+ Create recipe
-(myapplication-1.0.bb)
-+ Integrate your application into image
-+ Create image
 + Deploy image --> VM(Vbox, QEMU)
++ 
