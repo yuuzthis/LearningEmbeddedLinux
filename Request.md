@@ -9,6 +9,7 @@ Assignment 1-1:
 "S" character
 + Search for the longest streak of the letter "L" or "S"
 + Print out the longest streak with its lastest index
+
 Assignment 2:
 1. Create a simple linux kernel module perform following actions:
 - The kernel module is a SPI device driver.
