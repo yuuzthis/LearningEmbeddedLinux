@@ -1,1 +1,0 @@
-These are not eclipse projects but just drivers which can be shared between different projects 
